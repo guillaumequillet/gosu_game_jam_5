@@ -1,0 +1,12 @@
+CREDITS
+
+Asteroid : FunwithPixels
+back : Westbeam
+ship : scofanogd
+explosion : Master484
+Robin Lamb : alienshoot1
+mieki256 : shmup_effects et shmup_obj
+TinyWorlds : explosion
+Bart Kelsey : spel1_0
+
+Oblidivm : music Space Heroes.ogg
