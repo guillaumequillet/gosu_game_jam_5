@@ -2,7 +2,7 @@
 
 ASTEROIDS ! is a Gosu Game Jam 5 project ! The theme was : Asteroids. The game was all done using Ruby and the Gosu Gem.
 
-Controls
+# Controls
 
 Press Arrow keys to move the spaceship.
 Press Space key to shoot a laser
@@ -11,7 +11,7 @@ An asteroid will kill your ship on contact. It will split in two pieces if a las
 
 If it was too small to split, it may give some reward bonus : extra life or extra bomb. A good strategy to get the best score may be to split as much asteroids as possible before using a useful bomb... and get bonuses !
 
-Credits
+# Credits
 
 Asteroid : FunwithPixels
 back : Westbeam
